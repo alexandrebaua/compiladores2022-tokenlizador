@@ -1,0 +1,12 @@
+D:\Google Drive\Compiladores\Tokenlizer\Tokenlizer\bin\Debug\Tokenlizer.exe.config
+H:\Tokenlizer\Tokenlizer\bin\Debug\Tokenlizer.exe.config
+H:\Tokenlizer\Tokenlizer\bin\Debug\Tokenlizer.exe
+H:\Tokenlizer\Tokenlizer\bin\Debug\Tokenlizer.pdb
+H:\Tokenlizer\Tokenlizer\obj\Debug\Tokenlizer.csprojResolveAssemblyReference.cache
+H:\Tokenlizer\Tokenlizer\obj\Debug\Tokenlizer.Form1.resources
+H:\Tokenlizer\Tokenlizer\obj\Debug\Tokenlizer.Properties.Resources.resources
+H:\Tokenlizer\Tokenlizer\obj\Debug\Tokenlizer.csproj.GenerateResource.Cache
+H:\Tokenlizer\Tokenlizer\obj\Debug\Tokenlizer.exe
+H:\Tokenlizer\Tokenlizer\obj\Debug\Tokenlizer.pdb
+D:\Google Drive\Compiladores\Tokenlizer\Tokenlizer\obj\Debug\Tokenlizer.exe
+D:\Google Drive\Compiladores\Tokenlizer\Tokenlizer\obj\Debug\Tokenlizer.pdb
