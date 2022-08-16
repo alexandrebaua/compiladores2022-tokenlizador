@@ -1,5 +1,4 @@
-Analizador léxico simples
-Desenvolvido na matéria de compiladores
+Analizador léxico simples desenvolvido na matéria de compiladores
 
 Identifica identificadores (variáveis), constantes e os seguintes tokens:
     IF
