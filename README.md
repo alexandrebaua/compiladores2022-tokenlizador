@@ -27,4 +27,5 @@ Identifica identificadores (variáveis), constantes e os seguintes tokens:
 - [Formulário principal](Tokenlizer/Form1.cs)
 - [Classe para armazenar um token](Tokenlizer/TokenClass.cs)
 - [Tabelas de estados](Tokenlizer/TabelaEstados.cs)
+- [Arquivo executável](Tokenlizer/bin/Debug/Tokenlizer.exe)
 ![Autonômo finito deterministico](At01-Lexico.png)
